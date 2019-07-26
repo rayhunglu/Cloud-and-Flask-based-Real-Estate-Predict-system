@@ -15,7 +15,7 @@ def predict1():
 	# data = request.get_json(force=True)
 	# predict = model.predict(data['feature'])
 	# return jsonify(predict[0].tolist())
-	print('hello')
+	return "<h1>Hello Flask!</h1>"
 
 @app.route('/api/recent',methods=['GET'])
 def predict():
@@ -23,7 +23,7 @@ def predict():
     # data = request.get_json(force=True)
     # predict = model.predict(data['feature'])
     # return jsonify(predict[0].tolist())
-    print('hello')
+    return "<h1>Hello Flask!</h1>"
     
 if __name__ == '__main__':
     app.run(debug=True,host='0.0.0.0')
