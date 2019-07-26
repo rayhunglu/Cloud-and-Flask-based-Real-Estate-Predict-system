@@ -14,6 +14,6 @@ RUN pip install -r requirements.txt
 
 COPY . /app
 
-CMD python /app/model.py && python /app/predict.py
+CMD python /app/model.py && python /app/predict.py && python /app/flask_api.py
 
  

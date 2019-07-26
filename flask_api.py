@@ -9,12 +9,20 @@ app = Flask(__name__)
 
 date=str(datetime.datetime.now()).split(' ')[0]
 
-@app.route('/api/recent',methods=['POST'])
+@app.route('/api',methods=['GET'])
 def predict():
     # Get the data from the POST request.
-    data = request.get_json(force=True)
-    predict = model.predict(data['feature'])
-    return jsonify(predict[0].tolist())
+	# data = request.get_json(force=True)
+	# predict = model.predict(data['feature'])
+	# return jsonify(predict[0].tolist())
+	print('hello')
+@app.route('/api/recent',methods=['GET'])
+def predict():
+    # Get the data from the POST request.
+    # data = request.get_json(force=True)
+    # predict = model.predict(data['feature'])
+    # return jsonify(predict[0].tolist())
+    print('hello')
     
 if __name__ == '__main__':
-    app.run(debug=True,host='127.0.0.1')
+    app.run(debug=True,host='0.0.0.0')
