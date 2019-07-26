@@ -1,1 +1,2 @@
-# ml_CI-CD_side_project
+# ML_side_project
+
