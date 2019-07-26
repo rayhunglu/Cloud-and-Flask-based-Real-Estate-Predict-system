@@ -24,3 +24,28 @@ crawler date,address,postal_code,url,bedrooms,bathrooms,area,latitude,longitude,
 2019-07-23,"921 Font Ter, San Jose ,CA ",95126,https://www.zillow.com/homedetails/921-Font-Ter-San-Jose-CA-95126/94702456_zpid/,3,3,1727,37.32265,-121.904007,999000
 2019-07-23,"7049 Elmsdale Dr, San Jose ,CA ",95120,https://www.zillow.com/homedetails/7049-Elmsdale-Dr-San-Jose-CA-95120/19836722_zpid/,4,3,2240,37.208573,-121.837367,1599000
 2019-07-23,"1570 Pam Ln, San Jose ,CA ",95120,https://www.zillow.com/homedetails/1570-Pam-Ln-San-Jose-CA-95120/19756323_zpid/,4,3,2527,37.230315,-121.899736,1650000
+2019-07-25,"2815 Sierra Rd, San Jose ,CA ",95132,https://www.zillow.com/homedetails/2815-Sierra-Rd-San-Jose-CA-95132/19773139_zpid/,4,3,1305,37.393899,-121.860586,1095000
+2019-07-25,"782 Spindrift Pl # 782, San Jose ,CA ",95134,https://www.zillow.com/homedetails/782-Spindrift-Pl-782-San-Jose-CA-95134/2083395607_zpid/,4,2,2173,37.416427,-121.93977,280000
+2019-07-25,"1004 Marianelli Ct, San Jose ,CA ",95112,https://www.zillow.com/homedetails/1004-Marianelli-Ct-San-Jose-CA-95112/19567666_zpid/,4,2,1405,37.360033,-121.881161,970000
+2019-07-25,"5235 Amelia Dr, San Jose ,CA ",95118,https://www.zillow.com/homedetails/5235-Amelia-Dr-San-Jose-CA-95118/19758181_zpid/,3,3,1540,37.247806,-121.898527,1175000
+2019-07-25,"5228 Makati Cir, San Jose ,CA ",95123,https://www.zillow.com/homedetails/5228-Makati-Cir-San-Jose-CA-95123/19829333_zpid/,1,1,744,37.24967,-121.806823,500000
+2019-07-25,"1119 Indian Summer Ct, San Jose ,CA ",95122,https://www.zillow.com/homedetails/1119-Indian-Summer-Ct-San-Jose-CA-95122/19717239_zpid/,2,1,953,37.319681,-121.841657,484000
+2019-07-25,"801 S Winchester Blvd APT 1114, San Jose ,CA ",95128,https://www.zillow.com/homedetails/801-S-Winchester-Blvd-APT-1114-San-Jose-CA-95128/69302482_zpid/,2,2,1022,37.312871,-121.95054,855888
+2019-07-25,"208 Meadow Pine Pl, San Jose ,CA ",95125,https://www.zillow.com/homedetails/208-Meadow-Pine-Pl-San-Jose-CA-95125/69299433_zpid/,4,4,2152,37.297164,-121.866775,1099000
+2019-07-25,"38 N Almaden Blvd UNIT 300, San Jose ,CA ",95110,https://www.zillow.com/homedetails/38-N-Almaden-Blvd-UNIT-300-San-Jose-CA-95110/82957241_zpid/,2,2,1312,37.335078,-121.895462,1149888
+2019-07-25,"5537 Cribari Cir, San Jose ,CA ",95135,https://www.zillow.com/homedetails/5537-Cribari-Cir-San-Jose-CA-95135/19798586_zpid/,2,2,1240,37.292248,-121.755999,450000
+2019-07-25,"1686 Almond Blossom Ln, San Jose ,CA ",95124,https://www.zillow.com/homedetails/1686-Almond-Blossom-Ln-San-Jose-CA-95124/19754326_zpid/,3,2,1617,37.233201,-121.908626,1499000
+2019-07-25,"6310 Desert Flame Dr, San Jose ,CA ",95120,https://www.zillow.com/homedetails/6310-Desert-Flame-Dr-San-Jose-CA-95120/19763408_zpid/,4,3,2100,37.226246,-121.88029,1499000
+2019-07-25,"259 N Capitol Ave UNIT 111, San Jose ,CA ",95127,https://www.zillow.com/homedetails/259-N-Capitol-Ave-UNIT-111-San-Jose-CA-95127/19722121_zpid/,2,1,828,37.36864,-121.844181,455000
+2019-07-25,"2530 Bambi Ln, San Jose ,CA ",95116,https://www.zillow.com/homedetails/2530-Bambi-Ln-San-Jose-CA-95116/19724019_zpid/,3,3,1520,37.352528,-121.832331,779000
+2019-07-25,"3133 Santa Margarita Ave, San Jose ,CA ",95118,https://www.zillow.com/homedetails/3133-Santa-Margarita-Ave-San-Jose-CA-95118/19693430_zpid/,5,2,1833,37.271273,-121.896355,1435000
+2019-07-25,"4131 Arezzo Pointe Ln, San Jose ,CA ",95148,https://www.zillow.com/homedetails/4131-Arezzo-Pointe-Ln-San-Jose-CA-95148/61323312_zpid/,4,3,2757,37.320366,-121.764979,1588888
+2019-07-25,"4045 Partridge Dr, San Jose ,CA ",95121,https://www.zillow.com/homedetails/4045-Partridge-Dr-San-Jose-CA-95121/19805927_zpid/,3,2,1440,37.305214,-121.781583,849000
+2019-07-25,"1246 Valley Quail Cir, San Jose ,CA ",95120,https://www.zillow.com/homedetails/1246-Valley-Quail-Cir-San-Jose-CA-95120/19768438_zpid/,4,3,3203,37.200564,-121.849283,2108800
+2019-07-25,"3912 Vista Roma Dr, San Jose ,CA ",95136,https://www.zillow.com/homedetails/3912-Vista-Roma-Dr-San-Jose-CA-95136/64461008_zpid/,3,3,1674,37.275171,-121.846738,879000
+2019-07-25,"1709 Hallmark Ln, San Jose ,CA ",95124,https://www.zillow.com/homedetails/1709-Hallmark-Ln-San-Jose-CA-95124/19695467_zpid/,3,2,1459,37.262363,-121.908356,1199000
+2019-07-25,"644 Whitethorne Dr, San Jose ,CA ",95128,https://www.zillow.com/homedetails/644-Whitethorne-Dr-San-Jose-CA-95128/19589375_zpid/,3,2,1162,37.300305,-121.938413,1025000
+2019-07-25,"6648 Mount Hope Dr, San Jose ,CA ",95120,https://www.zillow.com/homedetails/6648-Mount-Hope-Dr-San-Jose-CA-95120/19835542_zpid/,3,3,2113,37.218256,-121.854181,1575000
+2019-07-25,"2184 Peachtree Ln, San Jose ,CA ",95128,https://www.zillow.com/homedetails/2184-Peachtree-Ln-San-Jose-CA-95128/19583450_zpid/,3,2,1246,37.334222,-121.939757,1199000
+2019-07-25,"4104 Dulcey Dr, San Jose ,CA ",95136,https://www.zillow.com/homedetails/4104-Dulcey-Dr-San-Jose-CA-95136/19705257_zpid/,4,3,2236,37.272816,-121.841923,899000
+2019-07-25,"5561 Shadowcrest Way, San Jose ,CA ",95123,https://www.zillow.com/homedetails/5561-Shadowcrest-Way-San-Jose-CA-95123/19709077_zpid/,4,2,1676,37.251834,-121.844552,1126000
