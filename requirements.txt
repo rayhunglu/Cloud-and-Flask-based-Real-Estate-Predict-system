@@ -5,3 +5,8 @@ pandas
 numpy
 requests
 lxml
+bs4
+csv
+time
+os.path
+datetime
