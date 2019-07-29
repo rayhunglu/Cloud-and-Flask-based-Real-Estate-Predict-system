@@ -132,10 +132,10 @@ class crawler:
                 dict_writer = csv.DictWriter(output_file, keys)
                 dict_writer.writeheader()
                 dict_writer.writerows(data)
-    def save_to_file(self,response):
-        # saving response to `response.html`
-        with open("response.html", 'w') as fp:
-            fp.write(response.text)
+    # def save_to_file(self,response):
+    #     # saving response to `response.html`
+    #     with open("response.html", 'w') as fp:
+    #         fp.write(response.text)
     def get_lan_lon_info(self,response):
         k=response.text
         properties_lan_lon_list=[]
@@ -153,6 +153,6 @@ class crawler:
             for j in properties_lan_lon_list[i]:
                 properties_list[i][j]=properties_lan_lon_list[i][j]
         return properties_list
-    def df_to_csv(name,df):
-        export_csv = df.to_csv (r'./new_train_df.csv', index = None, header=True)
+    # def df_to_csv(name,df):
+    #     export_csv = df.to_csv (r'./new_train_df.csv', index = None, header=True)
         
