@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ -n $(sudo docker ps | grep mlflask | awk  -F ' ' '{print $1}') ]; then
     echo "container id not empty, stop it firstly"
-    sudo docker stop $(docker ps | grep mlflask | awk  -F ' ' '{print $1}')
+    sudo docker stop $(sudo docker ps | grep mlflask | awk  -F ' ' '{print $1}')
 else
     echo "empty container id"
 fi
