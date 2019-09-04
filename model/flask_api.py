@@ -17,7 +17,7 @@ def predict1():
 
 @app.route('/api/recent',methods=['GET'])
 def predict():
-    link='./model/data/predict.csv'
+    link='./data/predict.csv'
     result = pd.read_csv(link)
     data=result.to_dict('index')
     return jsonify(data)

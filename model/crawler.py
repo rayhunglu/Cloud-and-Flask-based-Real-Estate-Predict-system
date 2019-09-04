@@ -121,8 +121,9 @@ class crawler:
 
     def write_data_to_csv(self,data,name):
         # saving scraped data to csv.
+    
         keys = data[0].keys()
-        path='./data/'+name+'.csv'
+        path='./model/data/'+name+'.csv'
         if os.path.exists(path):
             with open(path, 'a') as output_file:
                 dict_writer = csv.DictWriter(output_file, keys)
