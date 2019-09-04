@@ -174,3 +174,27 @@ crawler date,address,postal_code,url,bedrooms,bathrooms,area,latitude,longitude,
 2019-07-29,"2792 Clara Smith Pl, San Jose ,CA ",95135,https://www.zillow.com/homedetails/2792-Clara-Smith-Pl-San-Jose-CA-95135/64753640_zpid/,6,5,4349,37.295339,-121.769047,2200000
 2019-07-29,"1898 Meridian Ave UNIT 12, San Jose ,CA ",95125,https://www.zillow.com/homedetails/1898-Meridian-Ave-UNIT-12-San-Jose-CA-95125/19682816_zpid/,3,2,1312,37.289125,-121.912972,798800
 2019-07-29,"900 Golden Wheel # 118, San Jose ,CA ",95112,https://www.zillow.com/homedetails/900-Golden-Wheel-118-San-Jose-CA-95112/2083383192_zpid/,2,1,550,37.3469,-121.8872,199999
+"1629 Tiffany Way, San Jose, CA 95125",95125,1198000.0,3,2.0,1467,37.278782,-121.903247,https://www.zillow.com/homedetails/1629-Tiffany-Way-San-Jose-CA-95125/19692316_zpid/,House for sale
+"2423 Samoa Way, San Jose, CA 95122",95122,710000.0,4,2.0,1283,37.346792,-121.830551,https://www.zillow.com/homedetails/2423-Samoa-Way-San-Jose-CA-95122/19727475_zpid/,House for sale
+"38 N Almaden Blvd UNIT 1313, San Jose, CA 95110",95110,749500.0,1,1.0,975,37.335078,-121.895462,https://www.zillow.com/homedetails/38-N-Almaden-Blvd-UNIT-1313-San-Jose-CA-95110/82949579_zpid/,Condo for sale
+"4978 Rio Verde Dr, San Jose, CA 95118",95118,1300000.0,4,2.0,1937,37.252902,-121.893687,https://www.zillow.com/homedetails/4978-Rio-Verde-Dr-San-Jose-CA-95118/19759055_zpid/,House for sale
+"5646 Allen Ave APT 2, San Jose, CA 95123",95123,425000.0,2,1.0,903,37.248969,-121.854565,https://www.zillow.com/homedetails/5646-Allen-Ave-APT-2-San-Jose-CA-95123/19830398_zpid/,Condo for sale
+"1775 S King Rd, San Jose, CA 95122",95122,469000.0,3,2.0,1121,37.331245,-121.83511,https://www.zillow.com/homedetails/1775-S-King-Rd-San-Jose-CA-95122/19725157_zpid/,House for sale
+"5887 Treetop Ct, San Jose, CA 95123",95123,799900.0,4,2.0,1846,37.241712,-121.816152,https://www.zillow.com/homedetails/5887-Treetop-Ct-San-Jose-CA-95123/19823829_zpid/,House for sale
+"5375 Laurel Canyon Dr, San Jose, CA 95138",95138,2525000.0,5,5.0,4477,37.289385,-121.774934,https://www.zillow.com/homedetails/5375-Laurel-Canyon-Dr-San-Jose-CA-95138/19813439_zpid/,House for sale
+"177 Goularte Way, San Jose, CA 95116",95116,578888.0,3,3.0,1275,37.354626,-121.844673,https://www.zillow.com/homedetails/177-Goularte-Way-San-Jose-CA-95116/19721510_zpid/,Townhouse for sale
+"1142 Sherwood Ave, San Jose, CA 95126",95126,1939000.0,4,3.0,2498,37.345387,-121.928794,https://www.zillow.com/homedetails/1142-Sherwood-Ave-San-Jose-CA-95126/19558104_zpid/,House for sale
+"175 Yasou Demas Way, San Jose, CA 95119",95119,690000.0,2,3.0,1293,37.239379,-121.79451,https://www.zillow.com/homedetails/175-Yasou-Demas-Way-San-Jose-CA-95119/19841811_zpid/,Townhouse for sale
+"4859 Anna Dr, San Jose, CA 95124",95124,1199900.0,3,2.0,1161,37.249568,-121.925242,https://www.zillow.com/homedetails/4859-Anna-Dr-San-Jose-CA-95124/19675157_zpid/,House for sale
+"1885 Meridian Ave, San Jose, CA 95125",95125,1050000.0,2,2.0,1257,37.289353,-121.913846,https://www.zillow.com/homedetails/1885-Meridian-Ave-San-Jose-CA-95125/19593806_zpid/,House for sale
+"200 Ford Rd SPC 222, San Jose, CA 95138",95138,239000.0,3,2.0,1344,37.25302,-121.793547,https://www.zillow.com/homedetails/200-Ford-Rd-SPC-222-San-Jose-CA-95138/2111389254_zpid/,Home for sale
+"1819 Park Ave, San Jose, CA 95126",95126,1288000.0,3,2.0,1362,37.335329,-121.926253,https://www.zillow.com/homedetails/1819-Park-Ave-San-Jose-CA-95126/19581837_zpid/,House for sale
+"5889 Fleet St, San Jose, CA 95120",95120,1459000.0,4,3.0,2008,37.233311,-121.890477,https://www.zillow.com/homedetails/5889-Fleet-St-San-Jose-CA-95120/19764261_zpid/,House for sale
+"5678 Coniston Way, San Jose, CA 95118",95118,1199000.0,4,2.0,1555,37.245341,-121.883706,https://www.zillow.com/homedetails/5678-Coniston-Way-San-Jose-CA-95118/19755677_zpid/,House for sale
+"4020 Williams Rd APT 2, San Jose, CA 95117",95117,799000.0,1,1.0,821,37.307956,-121.972778,https://www.zillow.com/homedetails/4020-Williams-Rd-APT-2-San-Jose-CA-95117/19606433_zpid/,Condo for sale
+"4962 Chiles Dr, San Jose, CA 95136",95136,875000.0,3,2.0,1330,37.263506,-121.857605,https://www.zillow.com/homedetails/4962-Chiles-Dr-San-Jose-CA-95136/19708700_zpid/,House for sale
+"3878 Pearl Ave, San Jose, CA 95136",95136,1098000.0,5,3.0,2137,37.271633,-121.868379,https://www.zillow.com/homedetails/3878-Pearl-Ave-San-Jose-CA-95136/19703304_zpid/,House for sale
+"2245 Blossom Valley Dr, San Jose, CA 95124",95124,1199000.0,3,2.0,1332,37.239494,-121.939522,https://www.zillow.com/homedetails/2245-Blossom-Valley-Dr-San-Jose-CA-95124/19746705_zpid/,House for sale
+"2544 Tioga Way, San Jose, CA 95124",95124,900000.0,3,2.0,1100,37.275927,-121.921161,https://www.zillow.com/homedetails/2544-Tioga-Way-San-Jose-CA-95124/19689814_zpid/,House for sale
+"3267 Oxford Ln, San Jose, CA 95117",95117,1658000.0,4,3.0,2397,37.305456,-121.95502,https://www.zillow.com/homedetails/3267-Oxford-Ln-San-Jose-CA-95117/19604902_zpid/,House for sale
+"1387 Mckinley Ct, San Jose, CA 95126",95126,889950.0,3,3.0,1311,37.307682,-121.915713,https://www.zillow.com/homedetails/1387-Mckinley-Ct-San-Jose-CA-95126/89474984_zpid/,Condo for sale

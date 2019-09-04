@@ -9,8 +9,8 @@ COPY ./requirements.txt /app/requirements.txt
 
 WORKDIR /app
 
-RUN pip install -r requirements.txt
+RUN pip3 install -r requirements.txt
 
 COPY . /app
 
-CMD python /app/model.py && python /app/predict.py && python /app/flask_api.py
+CMD python /app/flask_api.py

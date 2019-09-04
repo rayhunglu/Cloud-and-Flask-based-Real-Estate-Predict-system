@@ -6,7 +6,7 @@ import csv
 # machine learning
 from sklearn.linear_model import LinearRegression
 
-link='../data/train.csv'
+link='./data/train.csv'
 train_df = pd.read_csv(link)
 
 train_df['bedrooms'] = train_df['bedrooms'].fillna(0)
@@ -24,6 +24,6 @@ for i in model_train_list:
     logreg.fit(X_train, y_train)
     # save the model to disk
     filename = 'model_'+str(i)+'.pkl'
-    with open('../trained_model/'+filename, 'wb') as file:
+    with open('./trained_model/'+filename, 'wb') as file:
         pickle.dump(logreg, file)
 

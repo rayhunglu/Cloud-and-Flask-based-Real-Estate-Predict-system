@@ -32,7 +32,7 @@ class crawler:
     def get_data_from_json(self,raw_json_data):
         # getting data from json (type 2 of their A/B testing page)
         try:
-            cleaned_data = clean(raw_json_data).replace('<!--', "").replace("-->", "")
+            cleaned_data = self.clean(raw_json_data).replace('<!--', "").replace("-->", "")
         except ValueError:
             a=None
         properties_list = []
@@ -57,12 +57,12 @@ class crawler:
                 data = {'address': address,
                         'postal_code': postal_code,
                         'price': price,
-                        'dateSold':dateSold,
-                        'yearBuilt':yearBuilt,
-                        'lotSize':lotSize,
-                        'homeType':homeType,
-                        'rentZestimate':rentZestimate,
-                        'taxAssessedValue':taxAssessedValue,
+                        # 'dateSold':dateSold,
+                        # 'yearBuilt':yearBuilt,
+                        # 'lotSize':lotSize,
+                        # 'homeType':homeType,
+                        # 'rentZestimate':rentZestimate,
+                        # 'taxAssessedValue':taxAssessedValue,
                         'bedrooms':bedrooms,
                         'bathrooms':bathrooms,
                         'area':area,
